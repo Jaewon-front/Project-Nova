@@ -1,1 +1,1 @@
-const mode = "development"; 
+const mode = "production";
